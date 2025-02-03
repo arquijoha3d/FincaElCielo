@@ -1,8 +1,0 @@
-<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <g data-name="quadrato centratore" id="quadrato_centratore">
-  <rect height="64" width="64" style="fill:none"/>
- </g>
- <g id="icona">
-  <path d="M22.14,22.93,37.86,32,22.14,41.07V22.93m-4-6.93V48L45.86,32,18.14,16Z" style="fill:#000000; fill-opacity:1"/>
- </g>
-</svg>
