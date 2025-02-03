@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g data-name="quadrato centratore" id="quadrato_centratore">
+  <rect height="64" width="64" style="fill:none"/>
+ </g>
+ <g id="icona">
+  <polygon points="26.67 21.33 37.33 16 48 21.33 48 48 37.33 42.67 26.67 48 16 42.67 16 16 26.67 21.33" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1"/>
+  <line x2="37.33" x1="37.33" y2="42.67" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1" y1="16"/>
+  <line x2="26.67" x1="26.67" y2="48" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1" y1="21.33"/>
+ </g>
+</svg>

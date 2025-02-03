@@ -1,0 +1,9 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g data-name="quadrato centratore" id="quadrato_centratore">
+  <rect height="64" width="64" style="fill:none"/>
+ </g>
+ <g id="icona">
+  <line y2="32" x1="16" x2="48" y1="32" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1"/>
+  <line y2="48" x1="32" x2="32" y1="16" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1"/>
+ </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <g id="quadrato_centratore" data-name="quadrato centratore">
+  <rect height="64" width="64" style="fill:none"/>
+ </g>
+ <g id="icona">
+  <polyline points="45.94 31.7 31.99 45.63 31.99 45.63 18.06 31.7" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1"/>
+  <line x1="16" y1="18.37" y2="18.37" x2="48" style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-width:4px; stroke-opacity:1"/>
+ </g>
+</svg>
